@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.log{
+
+     display: flex;
+    
+    margin-top: 0px;
+    max-width: auto;
+    height: 20vh;
+
+     
+}
+
+div.netflix{
+display: flex;
+justify-content: center;
+width: 90vh;
+
+margin-top: 20px;
+
+}
+.sign{
+    display:flex;
+    height: 10vh;
+    width: 80vw;
+    margin-top: 10px;
+    margin-top: 20px;
+    justify-content:flex-end;
+    font-size: 20px;
+   margin-right: 30px;
+    color: black;
+
+}
+.first{
+    background-color: black;
+    height:0.06px;
+    margin-top: -30px;
+}
+h5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: -250px;
+    gap: 0px;
+}
+
+.text{
+    height: 15vh;
+    width:70vh;
+    padding: 0px 0px 0px 0px;
+    margin-left: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size:xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bolder;
+   
+    
+}
+
+h6{
+    display: flexbox;
+    justify-content: center;
+
+    align-items: center;
+    font-size: larger;
+
+    height: 20vh;
+    width: 55vh;
+    margin-left: 440px;
+    padding: 10px;
+}
+::placeholder {
+
+    justify-content: center;
+    color: rgb(26, 22, 22);
+    font-size: 12px;
+    font-weight: 900;
+    margin-left: 5px;
+}
+
+input {
+    background-color: rgba(255, 255, 255, 0.779);
+   margin-left: 440px;
+    height: 50px;
+    width: 50vh;
+    gap: 20px;
+    color: rgb(32, 28, 28);
+    border-radius: 7px;
+    border-color: rgb(25, 23, 23);
+    border-style: solid;
+    line-height: 70px;
+
+
+
+}
+.pass{
+    padding-top: 20px;
+    height: 20vh;
+}
+button{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 440px;
+    height: 7vh;
+    width:50vh;
+    margin-top: -30px;
+}
+.faq{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 200px;
+}
+
+div.footer {
+    display: grid;
+    grid-template-columns: 0.2fr 0.2fr 0.2fr 0.2fr;
+     gap:90px;
+  
+    color: black;
+    margin-left: 13vw;
+
+    
+
+}
+
+div.footer_item {
+    display: flex;
+    margin-top: 3vw;
+    flex-direction: column;
+    height: 10vw;
+    margin-left: -65px;
+    color: white;
+    gap: 9px;
+
+
+}
+footer.foot>div.b{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: -90px;
+    height: 90px;
+}
+
+.foot{
+    background-color:beige;
+}
+
+footer.foot>div.b {
+    width: 20px;
+
+}
+
